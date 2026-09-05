@@ -1,0 +1,23 @@
+{
+  "valorTotalEstoque": 22955.3,
+  "produtosCriticos": [
+    {
+      "id": 2,
+      "nome": "Mouse Gamer",
+      "preco": 180.5,
+      "quantidade": 3
+    },
+    {
+      "id": 4,
+      "nome": "Headset USB",
+      "preco": 220,
+      "quantidade": 2
+    },
+    {
+      "id": 5,
+      "nome": "Webcam Full HD",
+      "preco": 159.9,
+      "quantidade": 4
+    }
+  ]
+}
